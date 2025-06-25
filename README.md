@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 39px; color: #ff6347;">
+.<h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 39px; color: #ff6347;">
     ARVIND SWAMI
 </h1>
 
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **WebDevelopment, Network Security, Ethics-Info, Generative AI.**
+- 💬 Ask me about **Generative AI, WebDevelopment, Network Security, Ethics-Info.**
 
 - 📫 How to reach me - ~arvindswamibkn@icould.com~
 
