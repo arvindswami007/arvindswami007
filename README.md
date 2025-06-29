@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Generative AI, WebDevelopment, Network Security, Ethics-Info.**
+- 💬 Ask me about **Generative AI, AI Development,  Web Development, Network Security, Ethics-Info.**
 
 - 📫 How to reach me - ~arvindswamibkn@icould.com~
 
